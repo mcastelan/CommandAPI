@@ -31,3 +31,9 @@ C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\ne
 C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProyectosPersonales\ASPNETCore\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
