@@ -6,6 +6,8 @@ using CommandAPI.Models;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
+namespace CommandAPI.Controllers{
+
 [Route("api/[controller]")]
 [ApiController]
 public class CommandsController : ControllerBase
@@ -101,3 +103,6 @@ public class CommandsController : ControllerBase
         return NoContent();
     }
 }
+
+}
+
